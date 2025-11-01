@@ -1,0 +1,7 @@
+/home/gregory/lab6/build/CMakeFiles/app.dir
+/home/gregory/lab6/build/CMakeFiles/edit_cache.dir
+/home/gregory/lab6/build/CMakeFiles/rebuild_cache.dir
+/home/gregory/lab6/build/CMakeFiles/list_install_components.dir
+/home/gregory/lab6/build/CMakeFiles/install.dir
+/home/gregory/lab6/build/CMakeFiles/install/local.dir
+/home/gregory/lab6/build/CMakeFiles/install/strip.dir
