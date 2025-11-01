@@ -1,1 +1,1 @@
-rm -rf build && cmake -B build && cmake --build build && cd ./build/bin && ./app && cd ~/lab6
+rm -rf build && cmake -B build && cmake --build build && cd ./build/bin && ./app && cd ~/lab6_var14
